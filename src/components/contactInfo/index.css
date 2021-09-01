@@ -1,0 +1,36 @@
+.card {
+    border-radius: none;
+    width: 100%;
+}
+
+.contactInfo {
+    background-color: aquamarine;
+}
+
+.contactCard {
+    display: flex;
+    justify-content: center;
+}
+
+.portrait {
+    max-height: 5.5rem;
+    max-width: 5.5rem;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: auto;
+    margin: .5rem auto;
+    box-shadow: 0 0 2px 1px rgb(27 27 27);
+}
+
+.list-group {
+    margin-bottom: 1em;
+    border-radius: none !important;
+}
+
+.list-group-item {
+    color: white;
+    font-size:.6rem;
+    padding: .2rem 1rem;
+    background-color: rgba(0,0,0,.03);
+    border: none;
+}

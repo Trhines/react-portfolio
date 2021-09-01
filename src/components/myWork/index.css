@@ -1,0 +1,31 @@
+.myWork{
+    background-color: brown;
+}
+
+.card{
+    max-width: 250px;
+    background-color: rgb(80, 80, 80);
+    box-shadow: 0 0 2px 1px rgb(27 27 27);
+    padding: 0.5rem;
+    margin:.5rem;
+}
+
+.carouselCard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 5rem;
+}
+
+.descriptionText {
+    text-align: right;
+    padding-right: .5rem;
+    border-right: 1px solid white;
+}
+
+.carouselImg {
+    height: 8rem;
+    width: 10rem;;
+    object-fit: cover;
+    padding-left: .5rem;
+}

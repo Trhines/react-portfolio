@@ -1,0 +1,35 @@
+.billboard{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.introContainer{
+    align-items: center;
+    margin: auto;
+    position:absolute;
+}
+
+.intro{
+    display:inline-flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+h1{
+    padding-right: 1rem;
+    border-right: 1px solid white;
+    margin: none !important;
+    text-align: right;
+}
+p{
+    padding-left: 1rem;
+    margin-bottom: 0;
+}
+
+.bigImg{
+    height:18rem;
+    width:100%;
+    object-fit: cover;
+}
