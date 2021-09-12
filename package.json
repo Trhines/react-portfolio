@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Trhines.github.io/react-portfolio",
+  "homepage": "https://Trhines.github.io/react-portfolio-gh-pages",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
